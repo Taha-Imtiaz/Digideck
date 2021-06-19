@@ -1,0 +1,26 @@
+[
+    {
+        "id": "773121f8-ff41-4acf-b123-06a56fba220d",
+        "title": "quote title",
+        "quote": "my personal quote",
+        "author": "author"
+    },
+    {
+        "id": "faec9362-f231-4fb2-9bfd-5a3f196ca82e",
+        "title": "quote title",
+        "quote": "my personal quote",
+        "author": "author"
+    },
+    {
+        "id": "322ecc8b-c595-4ec4-910d-81b8f17ea342",
+        "title": "quote title",
+        "quote": "my personal quote",
+        "author": "author"
+    },
+    {
+        "id": "26539208-7e04-4936-a815-931a3a16901e",
+        "title": "new quote",
+        "quote": "my personal quote",
+        "author": "author"
+    }
+]
